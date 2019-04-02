@@ -1,0 +1,44 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: WASD Studios
+    i18n: company_WASD
+  desc:
+    detail: Trabjé principalmente haciendo juegos de realidad virtual para PC.
+    i18n: company_WASD_desc
+  date:
+    detail: Marzo 2018 - Actual
+    i18n: company_SlowCheetah_date
+  job:
+    detail: Desarrollador Unity
+    i18n: company_WASD_job
+  icon: icon-unity
+
+- name:
+    detail: Slow Cheetah
+    i18n: company_SlowCheetah
+  desc:
+    detail: Trabjé haciendo juegos móviles usando Unity.
+    i18n: company_SlowCheetah_desc
+  date:
+    detail: Mayo 2017 - Febrero 2019
+    i18n: company_SlowCheetah_date
+  job:
+    detail: Desarrollador Unity
+    i18n: company_SlowCheetah_job
+  icon: icon-unity
+
+- name:
+    detail: Sferea
+    i18n: company_Sferea
+  desc:
+    detail: Trabajé desarrollando apliaciones y juegos móviles.
+    i18n: company_Sferea_desc
+  date:
+    detail: Julio - Diciembre 2016
+    i18n: company_Sferea_date
+  job:
+    detail: Desarrolador Android
+    i18n: company_Sferea_job
+  icon: fa-android
+

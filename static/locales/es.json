@@ -1,0 +1,39 @@
+{
+  "website":{
+    "title": "Blog de Omar"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "Acerca de",
+    "skills": "Habilidades",
+    "projects": "Projectos",
+    "career": "Trayectorias",
+    "blog": "Blog",
+    "link": "Links"
+  },
+  "about_me":{
+    "about_me": "Acerca de mi",
+    "des": "Soy Ingeniero en Computación egresado de la Facultad de Ingeniería que se dedica al desarrollo de videojuegos, actualmente usando Unity como motor de juegos."
+  },
+  "skills":{
+    "my_skills": "Habilidades"
+  },
+  "projects":{
+    "my_projects": "Mis Proyectos",
+    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
+    "cpython": "This project is other's project. I use another request to get repo's information.",
+    "familycode": "This is another project."
+  },
+  "career":{
+    "my_career": "Mi trayectoria",
+    "company_WASD_desc":"Trabjé principalmente haciendo juegos de realidad virtual para PC."
+  },
+  "blog":{
+    "my_blog": "Mi blog"
+  },
+  "link":{
+    "link": "Link",
+    "view": "views"
+  }
+
+}
