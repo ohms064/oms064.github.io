@@ -6,7 +6,7 @@ desc: "Cosas que actualmente estoy aprendiendo"
 keywords: "Jekyll, Ruby"
 categories: [Personal, Unity]
 tags: [Unity, Progrmación]
-icon: icon-html
+icon: icon-unity
 ---
 
 # Cosas por aprender -- Apr 22, 2019
