@@ -46,4 +46,3 @@ Anexo algunas ligas que me parecieron útiles:
 [anteru.net/blog/2018/intro-to-compute-shaders/](https://anteru.net/blog/2018/intro-to-compute-shaders/) Aquí igual explican el funcionamiento del GPU
 
 [www.khronos.org/opengl/wiki/Compute_Shader](https://www.khronos.org/opengl/wiki/Compute_Shader) Wiki 
-
