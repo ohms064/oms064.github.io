@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Juegos para web"
+title:  "Mismo juego en 3D"
 date:   2019-09-07
 desc: "Primer proyecto con WebGL"
 keywords: "WebGL Unity, C#"
